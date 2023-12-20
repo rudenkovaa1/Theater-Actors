@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employments>
+  <Employment>
+    <KodA>1</KodA>
+    <KodP>1</KodP>
+    <Role>Фернан</Role>
+    <Price>80 000</Price>
+  </Employment>
+  <Employment>
+    <KodA>2</KodA>
+    <KodP>2</KodP>
+    <Role>Якуб Кац</Role>
+    <Price>65 000</Price>
+  </Employment>
+  <Employment>
+    <KodA>3</KodA>
+    <KodP>3</KodP>
+    <Role>Пьер</Role>
+    <Price>77 000</Price>
+  </Employment>
+</Employments>

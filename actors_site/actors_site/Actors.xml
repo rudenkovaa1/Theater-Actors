@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Actors>
+  <Actor>
+    <Kod>1</Kod>
+    <Surname>Петров</Surname>
+    <Name>Александр</Name>
+    <Patronymic>Сергеевич</Patronymic>
+    <Status>Заслуженный артист</Status>
+    <Experience>15 лет</Experience>
+  </Actor>
+  <Actor>
+    <Kod>2</Kod>
+    <Surname>Раков</Surname>
+    <Name>Виктор</Name>
+    <Patronymic>Викторович</Patronymic>
+    <Status>Народный артист</Status>
+    <Experience>25 лет</Experience>
+  </Actor>
+  <Actor>
+    <Kod>3</Kod>
+    <Surname>Безруков</Surname>
+    <Name>Сергей</Name>
+    <Patronymic>Витальевич</Patronymic>
+    <Status>Заслуженный артист</Status>
+    <Experience>18 лет</Experience>
+  </Actor>
+</Actors>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Performances>
+  <Performance>
+    <Kod>1</Kod>
+    <Name>Ветер шумит в тополях</Name>
+    <Year>2018</Year>
+    <Budget>120 000</Budget>
+  </Performance>
+  <Performance>
+    <Kod>2</Kod>
+    <Name>Наш класс</Name>
+    <Year>2020</Year>
+    <Budget>75 000</Budget>
+  </Performance>
+  <Performance>
+    <Kod>3</Kod>
+    <Name>Война и мир</Name>
+    <Year>2022</Year>
+    <Budget>150 000</Budget>
+  </Performance>
+  <Performance>
+    <Kod>7</Kod>
+    <Name>Ветер с моря</Name>
+    <Year>2023</Year>
+    <Budget>145 000</Budget>
+  </Performance>
+  <Performance>
+    <Kod>15</Kod>
+    <Name>Мадам Нетуш</Name>
+    <Year>2010</Year>
+    <Budget>500 000</Budget>
+  </Performance>
+</Performances>

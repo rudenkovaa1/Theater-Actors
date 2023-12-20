@@ -1,0 +1,17 @@
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.csproj.AssemblyReference.cache
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\MainForm.g.cs
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\MainWindow.g.cs
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\App.g.cs
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site_MarkupCompile.cache
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site_MarkupCompile.lref
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\bin\Debug\actors_site.exe.config
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\bin\Debug\actors_site.exe
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\bin\Debug\actors_site.pdb
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\MainForm.baml
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\MainWindow.baml
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.g.resources
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.Properties.Resources.resources
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.csproj.GenerateResource.cache
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.csproj.CoreCompileInputs.cache
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.exe
+D:\учеба\2 курс\верстка\c#\actors_site\actors_site\obj\Debug\actors_site.pdb
